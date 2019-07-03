@@ -1,10 +1,16 @@
 Steps to run the application
-# unzip the folder
-# From terminal go to the project
+# CLone the repository to your local machine
+# go to the project FullStackEngineerChallenge folder
 # run npm install
+# go inside the client folder
+# run npm install (again)
+# come back to the root folder
 # start the app by hitting `npm run dev` script
-# go to localhost:3000
+# go to localhost:3000 // it will automatically route you to the browser
 # click on sign In on top right to go inside the App
+Admin stub credentials
+// username - rahil
+// password - 123456
 
 
 Tech Stack used
